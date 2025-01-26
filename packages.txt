@@ -7,3 +7,6 @@ matplotlib=3.10.0
 tsinfer=0.3.3
 tsdate=0.2.1 # available via pip
 cyvcf2=0.31.1 #  available in bioconda
+stdpopsim=0.2.0
+tstrait=0.1.0
+tspop=0.0.2
